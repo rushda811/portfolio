@@ -1,0 +1,12 @@
+git hub =
+create repository= give name
+open project folder,open cmd,
+initialize as local repository(give git init command)
+git add .
+git commit -m 'anything..'
+something loads...
+copy the code from git git remote add origin..
+git push origin  master
+finish
+settings github
+branch select master
